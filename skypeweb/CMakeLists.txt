@@ -1,8 +1,8 @@
 cmake_minimum_required (VERSION 2.8)
 
 set(PROJECT_NAME "skypeweb")
-set(VERSION_MAJOR "0")
-set(VERSION_MINOR "1")
+set(VERSION_MAJOR "1")
+set(VERSION_MINOR "0")
 set(VERSION_PATCH "0")
 
 project(${PROJECT_NAME})
